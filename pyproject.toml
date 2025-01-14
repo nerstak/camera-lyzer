@@ -1,0 +1,14 @@
+[project]
+name = "camera-lyzer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=11.1.0",
+    "polars>=1.19.0",
+    "streamlit>=1.41.1",
+]
+packages = [
+    { include = "src", from = "src/" }
+]
