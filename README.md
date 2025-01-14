@@ -1,4 +1,4 @@
 # Camera Lyzer
 ## Demo
 
-![](C:\Users\royka\Documents\Dev\camera-lyzer\img\img.png)
+![](https://github.com/nerstak/camera-lyzer/blob/main/img/homepage.png?raw=true)
